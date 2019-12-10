@@ -1,0 +1,333 @@
+10:19:22 : 
+[ Function : Remove_Sheet ]
+# sheet_name : 샘플
+
+잘못된 색인입니다. (예외가 발생한 HRESULT: 0x8002000B (DISP_E_BADINDEX))
+
+
+14:33:32 : 
+[ Function : Init_Excel_Report ]
+# filepath : E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx
+# sheet    : 점검진단정보
+
+'E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx'을(를) 찾을 수 없습니다. 파일의 이름이 변경되었거나 파일이 이동 또는 삭제되지 않았는지 확인하세요.
+
+
+14:33:36 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 점검진단정보 (2)
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 점검진단정보
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : GetData ]
+# Row      : 1
+# Col      : 1
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A1
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A2
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A3
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A4
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A5
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A6
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:36 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:42 : 
+[ Function : Init_Excel_Report ]
+# filepath : E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx
+# sheet    : 점검진단정보
+
+'E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx'을(를) 찾을 수 없습니다. 파일의 이름이 변경되었거나 파일이 이동 또는 삭제되지 않았는지 확인하세요.
+
+
+14:33:47 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:47 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:53 : 
+[ Function : Init_Excel_Report ]
+# filepath : E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx
+# sheet    : 점검진단정보
+
+'E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx'을(를) 찾을 수 없습니다. 파일의 이름이 변경되었거나 파일이 이동 또는 삭제되지 않았는지 확인하세요.
+
+
+14:33:58 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 점검진단정보 (2)
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 점검진단정보
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : GetData ]
+# Row      : 1
+# Col      : 1
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A1
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A2
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A3
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A4
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A5
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A6
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 32 NULL
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:58 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:33:59 : 
+[ Function : Init_Excel_Report ]
+# filepath : E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx
+# sheet    : 점검진단정보
+
+'E:\동해\5호선\5-130 영등포시장역_점검진단.xlsx'을(를) 찾을 수 없습니다. 파일의 이름이 변경되었거나 파일이 이동 또는 삭제되지 않았는지 확인하세요.
+
+
+14:34:04 : 
+[ Function : Remove_Sheet ]
+# sheet_name : 샘플
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:34:04 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 점검진단정보
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:34:04 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+14:34:04 : 
+[ Function : Save_Excel ]
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
