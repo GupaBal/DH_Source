@@ -1,0 +1,8 @@
+09:01:57 : 
+[ Function : GetData ]
+# Row      : 20
+# Col      : 5
+
+'System.__ComObject' 형식의 COM 개체를 인터페이스 형식 'Microsoft.Office.Interop.Excel.Range'(으)로 캐스팅할 수 없습니다. RPC 서버를 사용할 수 없습니다. (예외가 발생한 HRESULT: 0x800706BA) 오류로 인해 IID가 '{00020846-0000-0000-C000-000000000046}'인 인터페이스의 COM 구성 요소에서 QueryInterface를 호출하지 못했으므로 이 작업을 수행할 수 없습니다.
+
+

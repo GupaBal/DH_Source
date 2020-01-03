@@ -1,5 +1,0 @@
-[85288:115516:0311/185939.796:WARNING:discovery_network_list_win.cc(195)] Failed to open Wlan client handle: 1062
-[85288:94436:0311/185940.639:WARNING:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
-[85288:94436:0311/185958.845:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
-[85288:94436:0311/185958.845:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
-[85288:94436:0311/185958.845:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.

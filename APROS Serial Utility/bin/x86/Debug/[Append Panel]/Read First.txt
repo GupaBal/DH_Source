@@ -1,2 +1,0 @@
-1. Copy Panel Dll Files
-2. Execute Software

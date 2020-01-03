@@ -1,8 +1,0 @@
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\[Append Panel]\Samsung_Demo.dll
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\[Append Panel]\Samsung_Demo.pdb
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Samsung_Demo.AceControl.resources
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Samsung_Demo.Properties.Resources.resources
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Expand_Samsung_Demo.csproj.GenerateResource.Cache
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Samsung_Demo.dll.licenses
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Samsung_Demo.dll
-E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\Expand_Samsung_Demo\obj\x86\Debug\Samsung_Demo.pdb
