@@ -1,0 +1,3393 @@
+14:26:53 : 
+[ Function : Find ]
+# text     : 중대결함사후관리 
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+15:18:33 : 
+[ Function : GetData ]
+# Row      : 0
+# Col      : 2
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+15:36:49 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+15:36:50 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+15:36:52 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+17:38:30 : 
+[ Function : GetData ]
+# Row      : 0
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+17:54:59 : 
+[ Function : GetData ]
+# Row      : 0
+# Col      : 2
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+17:55:00 : 
+[ Function : GetData ]
+# Row      : 0
+# Col      : 2
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+21:40:56 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+21:40:59 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:41:00 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:08 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:08 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:15 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:15 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:15 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:20 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:20 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:20 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:20 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:24 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:24 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:24 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:24 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:24 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:28 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:33 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:37 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:41 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:45 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:50 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:54 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:41:58 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:03 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:07 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:11 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:16 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:20 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:24 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:28 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:29 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:33 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:37 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:42 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:46 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:50 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:54 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:54 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:54 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:55 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:42:59 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:43:03 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:46:08 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:52:46 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:52:49 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:52:51 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:52:52 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:52:56 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:52:56 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 0 / 0 NULL
+
+예외가 발생한 HRESULT: 0x800A03EC
+
+
+22:52:58 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:53:06 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:53:07 : 
+[ Function : Save_Excel ]
+
+'2. 교량_기타.xlsx'은(는) 읽기 전용입니다. 복사본을 저장하려면 [확인]을 클릭하고 [다른 이름으로 저장] 대화 상자에서 새 이름으로 저장하십시오.
+
+
+22:53:07 : 
+[ Function : GetData ]
+# Row      : 729
+# Col      : 1
+
+RPC 서버를 사용할 수 없습니다. (예외가 발생한 HRESULT: 0x800706BA)
+
+

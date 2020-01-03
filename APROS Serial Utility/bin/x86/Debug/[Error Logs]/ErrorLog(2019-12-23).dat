@@ -1,0 +1,3498 @@
+12:32:19 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+13:52:21 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+13:53:40 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:49 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : Save_Excel ]
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:30:50 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:01 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : Save_Excel ]
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800AC472
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:02 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:02 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:02 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타 (2)
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : Existing_Sheet ]
+# sheet_name : 기타
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A7
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A8
+# values   : 55 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A9
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:03 : 
+[ Function : InsertExcel ]
+# strPCell : A10
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A11
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A12
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A13
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A14
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A15
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A16
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A17
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A18
+# values   : 54 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A19
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A20
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A21
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A22
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A23
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A24
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A25
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A26
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A27
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A28
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A29
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A30
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A31
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A32
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A33
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A34
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A35
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A36
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A37
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A38
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A39
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A40
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A41
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A42
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A43
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A44
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A45
+# values   : 44 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A46
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A47
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A48
+# values   : 27 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A49
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A50
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A51
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A52
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A53
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A54
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A55
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A56
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A57
+# values   : 26 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : InsertExcel ]
+# strPCell : A58
+# values   : 22 / 63 NULL
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+15:31:04 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:04 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:04 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+15:31:04 : 
+[ Function : Save_Excel ]
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:31:04 : 
+[ Function : CloseExcel ]
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+17:38:05 : 
+[ Function : Save_Excel ]
+
+호출된 개체가 해당 클라이언트로부터 연결이 끊겼습니다. (예외가 발생한 HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+
+
+17:52:32 : 
+[ Function : Find ]
+# text     : 예산정보
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+17:58:21 : 
+[ Function : Find ]
+# text     : 예산정보
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+

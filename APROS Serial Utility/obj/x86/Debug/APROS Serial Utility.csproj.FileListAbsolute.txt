@@ -1,0 +1,312 @@
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Gigasoft.ProEssentials.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\MySql.Data.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.dll
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.pdb
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.xml
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+D:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Gigasoft.ProEssentials.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\MySql.Data.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.dll
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.pdb
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.xml
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+E:\［ Projects ］\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelRoLa.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.Base.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.WinForms.Gauge.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Gigasoft.ProEssentials.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\MySql.Data.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.pdb
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.WinForms.Gauge.xml
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.pdb
+E:\［ ㈜Apros ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.Base.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.WinForms.Gauge.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Gigasoft.ProEssentials.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\MySql.Data.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\APCL-Base.pdb
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\ChartFX.WinForms.Gauge.xml
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.SQLite.pdb
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+E:\［ 2. Projects ］\［20161107］㈜Apros - Serial Port Utility\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\APROS-1\Desktop\［ Source ］\［ Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source2］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source ］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source3］\［ BJ_Source 3］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.config
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\PEGRP32E.DLL
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\[Config Files]\주의사항.png
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\[Append Panel]\Read First.txt
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\[Config Files]\Config.ini
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.exe
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\APROS Serial Utility.pdb
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Data.DataSetExtensions.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Data.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Deployment.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Design.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Drawing.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Net.Http.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Windows.Forms.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Xml.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelAT.resources
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanel.resources
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.CommPanelLora.resources
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.MainForm.resources
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS_Serial_Utility.Properties.Resources.resources
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csproj.GenerateResource.Cache
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.licenses
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.exe.manifest
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.application
+C:\Users\APROS-1\Desktop\［ Source7］\［ BJ_Source 7］\APROS Serial Utility\obj\x86\Debug\APROS Serial Utility.csprojResolveAssemblyReference.cache

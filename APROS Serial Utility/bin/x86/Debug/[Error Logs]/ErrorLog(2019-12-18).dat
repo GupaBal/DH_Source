@@ -1,0 +1,71 @@
+12:18:15 : 
+[ Function : GetData ]
+# Row      : 1
+# Col      : 1
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+12:24:54 : 
+[ Function : Find ]
+# text     : 점검진단실적
+
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+
+
+13:45:06 : 
+[ Function : GetData ]
+# Row      : 106
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+13:47:51 : 
+[ Function : GetData ]
+# Row      : 106
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+14:39:08 : 
+[ Function : GetData ]
+# Row      : 106
+# Col      : 1
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:24:17 : 
+[ Function : GetData ]
+# Row      : 273
+# Col      : 6
+
+피호출자가 호출을 거부했습니다. (예외가 발생한 HRESULT: 0x80010001 (RPC_E_CALL_REJECTED))
+
+
+15:33:56 : 
+[ Function : GetData ]
+# Row      : 106
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+20:17:25 : 
+[ Function : GetData ]
+# Row      : 162
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
+20:53:01 : 
+[ Function : GetData ]
+# Row      : 155
+# Col      : 1
+
+예외가 발생한 HRESULT: 0x800401A8
+
+
